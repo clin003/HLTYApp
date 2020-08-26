@@ -15,7 +15,7 @@
     3、生成淘口令，随时复制随时粘贴；
 
     【有问题——来这里找我们】
-    慧林淘友官网：[www.lyhuilin.com](http://www.lyhuilin.com)
+    慧林淘友官网：http://www.lyhuilin.com
     交流QQ群：153690156
 
 ## 前言
