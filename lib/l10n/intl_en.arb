@@ -1,0 +1,13 @@
+{
+  "appName": "HL WAY",
+  "changeDarkMode": "Light/Dark Mode",
+  "changeLanguage": "Language",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "automatic": "Auto",
+  "test": "This is a language test",
+  "dialogTip":"Hello $name",
+  "searchTip": "Search",
+  "homeTitle":"Home",
+  "newmsgTip": "new Msg"
+}
