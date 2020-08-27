@@ -112,3 +112,8 @@ flutter doctor
 flutter pub get
 flutter run
 ```
+
+## 慧林淘友apiClient下载地址
+
+链接: https://pan.baidu.com/s/1-_7YtjLNp2_hTnZjYxfWyw 提取码: 16i5
+解压密码是交流群群号
